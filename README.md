@@ -1,2 +1,2 @@
-# Praktikum-1-4
+# Praktikum PEMLAN
 Tugas Praktikum Pemrograman Lanjut
